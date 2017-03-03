@@ -4,5 +4,7 @@ This is parser for the MAT-format for the CLUTO datasets [here](http://glaros.dt
 ## Installation
 For Linux systems:
 `virtualenv -p /usr/bin/python3.5 venv`
+
 `source venv/bin/active`
+
 `pip install -r requirements.txt`
